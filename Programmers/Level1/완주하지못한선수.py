@@ -7,13 +7,13 @@ def solution(participant, completion):
     return participant[-1]
 
 # 1
-participant = ["leo", "kiki", "eden"]
-completion = ["eden", "kiki"]
+participant = ["leo","kiki","eden"]
+completion = ["eden","kiki"]
 
 # 2
-participant = ["marina", "josipa", "nikola", "vinko", "filipa"]
-completion = ["josipa", "filipa", "marina", "nikola"]
+participant = ["marina","josipa","nikola","vinko","filipa"]
+completion = ["josipa","filipa","marina","nikola"]
 
 # 3
-participant = ["mislav", "stanko", "mislav", "ana"]
-completion = ["stanko", "ana", "mislav"]
+participant = ["mislav","stanko","mislav","ana"]
+completion = ["stanko","ana","mislav"]
